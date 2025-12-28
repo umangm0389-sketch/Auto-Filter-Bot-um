@@ -53,7 +53,7 @@ DB_CHANGE_LIMIT = int(environ.get('DB_CHANGE_LIMIT', "432"))
 
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/UMoriginal')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+-y5H21xa2cg0Mzc1')
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/SilentXBotz')
+OWNER_LNK = environ.get('OWNER_LNK', 't.me/Cinema_Hub_owner')
 UPDATE_CHANNEL_LNK = environ.get('UPDATE_CHANNEL_LNK', 'https://t.me/SilentXBotz')
 
 AUTH_CHANNEL = environ.get("AUTH_CHANNEL", "-100") # add multiple channels here, separated by single space
@@ -68,8 +68,8 @@ TUTORIAL = environ.get("TUTORIAL", "https://t.me/SilentXBotz")
 TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/SilentXBotz")
 TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/SilentXBotz")
 
-SHORTENER_API = environ.get("SHORTENER_API", "")
-SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "")
+SHORTENER_API = environ.get("SHORTENER_API", "8376114393:AAGIv4T-4jHruoESyOj6ZopRHw_l6xYQbIw")
+SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "https://linkpays.in/")
 
 SHORTENER_API2 = environ.get("SHORTENER_API2", "")
 SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "")
