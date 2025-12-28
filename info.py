@@ -43,7 +43,7 @@ support_chat_id = environ.get('SUPPORT_CHAT_ID', '-1002262236579')
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
 
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://umangmishra:um7890mis@cluster0.zdxrauv.mongodb.net/autofilter?retryWrites=true&w=majority")
-DATABASE_NAME = environ.get('DATABASE_NAME', "autofilter")
+DATABASE_NAME = environ.get('DATABASE_NAME', "cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'SilentXBotz_files')
 
 # If MULTIPLE_DB Is True Then Fill DATABASE_URI2 Value Else You Will Get Error.
