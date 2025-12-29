@@ -1,11 +1,15 @@
 class script(object):
-    START_TXT = """<b>👋 ʜᴇʟʟᴏ {},
+    START_TXT = """<b>
+🔱 JAI SHREE MAHAKAAL 🔱
 
-ɪ ᴀᴍ ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ.
+👋 HELLO {},
 
-ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇꜱ, ꜱᴇʀɪᴇꜱ, ᴀɴɪᴍᴇꜱ, ᴀɴᴅ ᴍᴜᴄʜ ᴍᴏʀᴇ... 🎬
+🎬 I AM AN ADVANCED AUTO FILTER BOT.
 
-ᴊᴜꜱᴛ ꜱᴇɴᴅ ᴍᴇ ᴛʜᴇ ɴᴀᴍᴇ ᴏꜰ ᴛʜᴇ ᴍᴏᴠɪᴇ/ꜱᴇʀɪᴇꜱ ʏᴏᴜ ᴡᴀɴᴛ. 🔍</b>"""
+📽️ I CAN PROVIDE MOVIES, SERIES, ANIMES AND MUCH MORE...
+
+🔍 JUST SEND ME THE NAME OF THE MOVIE / SERIES YOU WANT.
+</b>"""
 
     FEATURES_TXT = """<b>🛠️ ʜᴇʀᴇ ᴀʀᴇ ᴍʏ ᴀᴠᴀɪʟᴀʙʟᴇ ꜰᴇᴀᴛᴜʀᴇꜱ 🛠️</b>"""
 
