@@ -38,7 +38,7 @@ SILENTX_PREMIUM_UPDATE = """
 <b>🏷️ Genres</b>: {}
 <code>━━━━━━━━━━━━━━━━━━</code>
 
-<b>⚡ Powered By <b><a href="https://t.me/+y5H21xa2cg0Mzc1">Cinema Hub</a></b>
+<b>⚡ Powered By <a href="https://t.me/+y5H21xa2cg0Mzc1">Cinema Hub</a></b>
 """
 
 notified_movies = set()
