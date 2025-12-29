@@ -244,7 +244,7 @@ class script(object):
 ᴍᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
     CAPTION = """<b>{file_name}\n
-📤 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ: <a href="https://t.me/SilentXBotz">SɪʟᴇɴᴛXʙᴏᴛᴢ</a></b>"""
+📤 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ: <ahref="https://t.me/+y5H21xa2cg0Mzc1">Cinema Hub</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🎬 ᴛɪᴛʟᴇ: <a href={url}>{title}</a>
