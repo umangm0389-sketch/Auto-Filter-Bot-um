@@ -51,7 +51,7 @@ MULTIPLE_DB = is_enabled(os.environ.get('MULTIPLE_DB', "False"), True) # Type Tr
 DATABASE_URI2 = environ.get('DATABASE_URI2', "")
 DB_CHANGE_LIMIT = int(environ.get('DB_CHANGE_LIMIT', "432")) 
 
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/UMoriginal')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/cinemahub_request')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+-y5H21xa2cg0Mzc1')
 OWNER_LNK = environ.get('OWNER_LNK', 't.me/Cinema_Hub_owner')
 UPDATE_CHANNEL_LNK = environ.get('UPDATE_CHANNEL_LNK', 'https://t.me/+-y5H21xa2cg0Mzc1')
@@ -68,7 +68,7 @@ TUTORIAL = environ.get("TUTORIAL", "https://t.me/SilentXBotz")
 TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/SilentXBotz")
 TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/SilentXBotz")
 
-SHORTENER_API = environ.get("SHORTENER_API", "8376114393:AAGIv4T-4jHruoESyOj6ZopRHw_l6xYQbIw")
+SHORTENER_API = environ.get("SHORTENER_API", "e63261955287703c6f20561d3f46b9155c0192e9")
 SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "https://linkpays.in/")
 
 SHORTENER_API2 = environ.get("SHORTENER_API2", "")
