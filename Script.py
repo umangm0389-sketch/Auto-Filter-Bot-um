@@ -247,8 +247,16 @@ class script(object):
 
 ᴍᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b>{file_name}\n
-📤 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ: <ahref="https://t.me/+y5H21xa2cg0Mzc1">Cinema Hub</a></b>"""
+    CAPTION = """<b>🎬 {file_name}
+
+━━━━━━━━━━━━━━━━━━
+📤 <u>UPLOADED BY</u> :
+🎥 <a href="https://t.me/+y5H21xa2cg0Mzc1">Cinema Hub</a>
+
+━━━━━━━━━━━━━━━━━━
+⚡ Stay Connected For Latest Movies & Series
+🔥 Fast • Clean • Reliable
+━━━━━━━━━━━━━━━━━━</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🎬 ᴛɪᴛʟᴇ: <a href={url}>{title}</a>
