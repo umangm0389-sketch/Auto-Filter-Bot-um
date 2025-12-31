@@ -39,8 +39,8 @@ pyrogram.utils.MIN_CHANNEL_ID = -1009147483647
             LOGGER.error(f"❌ Exception During Ping: {e}")
         time.sleep(120)
 
-if URL:
-    threading.Thread(target=ping_loop, daemon=True).start()
+# if URL:
+#     threading.Thread(target=ping_loop, daemon=True).start()
 
 async def SilentXBotz_start():
     LOGGER.info('Initializing Your Bot!')
