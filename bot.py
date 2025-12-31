@@ -24,12 +24,15 @@ botStartTime = time.time()
 
 pyrogram.utils.MIN_CHANNEL_ID = -1009147483647
 
-def ping_loop():
-    while True:
-        try:
-            r = requests.get(URL, timeout=10)
-            if r.status_code == 200:
-                LOGGER.info("✅ Ping Successful")
+# def ping_loop():
+#     while True:
+#         try:
+#             r = requests.get(URL, timeout=10)
+#             if r.status_code == 200:
+#                 pass
+#         except:
+#             pass
+#         time.sleep(60) Successful")
             else:
                 LOGGER.error(f"⚠️ Ping Failed: {r.status_code}")
         except Exception as e:
