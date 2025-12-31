@@ -13,7 +13,7 @@ from utils import temp
 from Script import script
 from plugins import web_server, check_expired_premium 
 from Lucia.Bot import SilentX
-from Lucia.util.keepalive import ping_server
+# from Lucia.util.keepalive import ping_server
 from Lucia.Bot.clients import initialize_clients
 import pyrogram.utils
 from PIL import Image
