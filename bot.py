@@ -93,8 +93,7 @@ async def SilentXBotz_start():
     await app.setup()
     bind_address = "0.0.0.0"
     await web.TCPSite(app, bind_address, PORT).start()
-    await idle()
-    
+   
 if __name__ == '__main__':
     loop = asyncio.get_event_loop()
     try:
