@@ -13,15 +13,27 @@ class script(object):
 
     FEATURES_TXT = """<b>🛠️ ʜᴇʀᴇ ᴀʀᴇ ᴍʏ ᴀᴠᴀɪʟᴀʙʟᴇ ꜰᴇᴀᴛᴜʀᴇꜱ 🛠️</b>"""
 
-    ABOUT_TXT = """<b>╭───────────⍟
-├🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
-├👑 ᴏᴡɴᴇʀ : <a href={Umang Mishra}>ᴏᴡɴᴇʀ</a>
-├👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/+-y5H21xa2cg0Mzc1>umang_mishra </a>
-├📕 ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a>
-├✏️ ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>ᴘʏᴛʜᴏɴ 3</a>
-├💾 ᴅᴀᴛᴀʙᴀꜱᴇ : <a href=https://cloud.mongodb.com>ᴍᴏɴɢᴏ ᴅʙ</a>
-├📊 ʙᴜɪʟᴅ ᴠᴇʀꜱɪᴏɴ : V4.3 [ ꜱᴛᴀʙʟᴇ ]
-╰───────────────⍟</b>"""
+    ABOUT_TXT = """<b>
+🎬 C I N E M A H U B  P R O
+━━━━━━━━━━━━━━━━━━━
+
+🤖 BOT TYPE : Auto Filter System
+⚡ PERFORMANCE : High Speed
+🌍 HOSTING : Koyeb Cloud
+
+👑 OWNER : Umang Mishra
+👨‍💻 DEVELOPER : Umang Mishra
+
+🧠 TECHNOLOGY STACK
+• Python 3
+• Pyrogram
+• MongoDB
+• Koyeb Infrastructure
+
+🚀 BUILD : v4.3 | Stable
+━━━━━━━━━━━━━━━━━━━
+✨ Powered by Cinema Hub ✨
+</b>"""
 
     FORCESUB_TEXT = """<b>⚠️ ᴀᴄᴄᴇꜱꜱ ᴅᴇɴɪᴇᴅ ⚠️
 
